@@ -1,0 +1,62 @@
+:where(.css-dev-only-do-not-override-htwhyh).ant-checkbox-wrapper + .ant-checkbox-wrapper {
+    margin-inline-start: 0;
+}
+
+.ant-drawer-body {
+    padding: 0 !important;
+}
+
+.ql-toolbar {
+    border: 1px solid #1677ff !important;
+    border-radius: 8px 8px 0 0;
+}
+
+.ql-container {
+    border-bottom: 1px solid #1677ff !important;
+    border-left: 1px solid #1677ff !important;
+    border-right: 1px solid #1677ff !important;
+    border-radius: 0 0 8px 8px;
+}
+
+.ql-editor {
+    min-height: 300px !important;
+}
+
+.ant-collapse-content {
+    border-top: 1px solid #1677ff !important;
+}
+
+.d-sm {
+    width: 550px;
+}
+
+.d-md {
+    width: 900px;
+}
+
+.d-lg {
+    width: 1264px;
+}
+
+.d-fluent {
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .d-sm {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+
+    .d-md {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1350px) {
+    .d-lg {
+        width: 100%;
+    }
+}

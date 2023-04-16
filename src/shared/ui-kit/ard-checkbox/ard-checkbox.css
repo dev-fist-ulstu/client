@@ -1,0 +1,7 @@
+.checkbox-error {
+}
+
+.checkbox-error .ant-checkbox > .ant-checkbox-inner {
+    border: 1px solid red;
+    background: #ffdede;
+}
